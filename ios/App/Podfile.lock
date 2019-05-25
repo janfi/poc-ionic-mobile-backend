@@ -1,0 +1,28 @@
+PODS:
+  - Capacitor (1.0.0):
+    - CapacitorCordova (= 1.0.0)
+  - CapacitorCordova (1.0.0)
+  - MBackend (0.0.1):
+    - Capacitor
+
+DEPENDENCIES:
+  - "Capacitor (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorCordova (from `../../node_modules/@capacitor/ios`)"
+  - MBackend (from `../../m-backend`)
+
+EXTERNAL SOURCES:
+  Capacitor:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorCordova:
+    :path: "../../node_modules/@capacitor/ios"
+  MBackend:
+    :path: "../../m-backend"
+
+SPEC CHECKSUMS:
+  Capacitor: 48e6d22d3d2fe9fd95f6c128136a7b538b7fd50d
+  CapacitorCordova: dd5a5a6ca827445b1f97ed0bb9ca4dbf424802c3
+  MBackend: cdfd4c0df287c86812b4a198b8627995e09bd08a
+
+PODFILE CHECKSUM: 11426603419c16c4a35d1486b0a57b7e990a21c3
+
+COCOAPODS: 1.6.1

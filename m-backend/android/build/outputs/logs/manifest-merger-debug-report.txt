@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml:2:3-4:14
+INJECTED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml:2:3-4:14
+INJECTED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml:2:3-4:14
+INJECTED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml:2:3-4:14
+INJECTED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml:2:3-4:14
+INJECTED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml:2:3-4:14
+INJECTED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml:2:3-4:14
+	package
+		ADDED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml:3:7-45
+		INJECTED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml
+		ADDED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml:2:3-4:14
+		INJECTED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml
+		ADDED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml:2:3-4:14
+		INJECTED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml:2:13-71
+uses-sdk
+INJECTED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml
+INJECTED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml
+INJECTED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml
+INJECTED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml
+		ADDED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml
+		ADDED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/JPB-CSI/Projects/artifikia/poc-ionic/poc-ionic-arch/node_modules/m-backend/android/src/main/AndroidManifest.xml
